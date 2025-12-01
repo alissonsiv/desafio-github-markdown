@@ -13,7 +13,7 @@ Treinar criação de repositório, branches, commits, issues e pull requests.
 
 ## Contribuidores
 - Proprietário: alissonsiv
-- Colaborador: tthecybher
+- Colaborador: tthecyber
 
 ## Arquivos deste desafio
 - `README.md` — este arquivo.
